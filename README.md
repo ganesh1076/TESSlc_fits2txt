@@ -6,4 +6,4 @@
   
   #To Run the code:
   #enter the following line in the terminal which contains the TESS data
-  "python <name_of_python_file.py> <TESS_lightcurve_file.fits>
+  "python tess_extract_pdc_sap.py <TESS_lightcurve_file.fits>
