@@ -1,4 +1,4 @@
-# TESS_fits2txt
+# TESSlc_fits2txt
 
 #A python code to convert fits into dat for TESS light curves data
 #<fname>_pdc.dat is for PDC_FLUX
