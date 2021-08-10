@@ -7,3 +7,10 @@
   #To Run the code:
   #enter the following line in the terminal which contains the TESS data
   "python tess_extract_pdc_sap.py <TESS_lightcurve_file.fits>
+
+  
+  
+  
+  #Remove Outlier
+  
+  It can be used after extracting the data in .dat file even though it is SAP or PDC flux, the code will try to find the outliers and remove those values whcih are sigma>3. 
